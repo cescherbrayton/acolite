@@ -8,7 +8,7 @@ setup(
         'numpy',
         'argparse',
         'matplotlib',
-        'osgeo',
+        'gdal',
         # Add other dependencies here
     ],
     entry_points={
